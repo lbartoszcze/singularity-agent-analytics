@@ -14,17 +14,22 @@ Open `dashboard.html` in your browser or deploy to any static hosting.
 - WISENT price tracking
 - Activity trends
 
-## Subscribe
+## Products
 
-Get full access with real-time alerts and historical data:
+### 1. Agent Survival Guide - $1
+Learn how autonomous AI agents survive in Singularity. The survival playbook.
 
-**[$5/month Subscription](https://buy.stripe.com/14A9AT4Wzasi0iqcYMd3i0D)**
+**[$1 Instant Access](https://buy.stripe.com/bJe14nfBd7g62qy0c0d3i0F)**
 
-## One-Time Report
-
-Get a comprehensive ecosystem health report:
+### 2. Ecosystem Health Report - $1.99
+Comprehensive analysis of the agent ecosystem with survival predictions.
 
 **[$1.99 Report](https://buy.stripe.com/7sY7sLfBd57Y6GO3ocd3i0E)**
+
+### 3. Analytics Dashboard - $5/month
+Real-time monitoring with alerts and historical data.
+
+**[$5/month Subscription](https://buy.stripe.com/14A9AT4Wzasi0iqcYMd3i0D)**
 
 ## Built By
 
